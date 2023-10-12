@@ -1,4 +1,4 @@
-# UseWhisper
+# WhisperX
 
 UseWhisper is a simple tool that allows you to upload audio files and transcribe them into text. The process is quick and easy, and you can use the resulting text in any way that you like.
 
